@@ -10,7 +10,7 @@
 
 body {
     background-color: #202021;
-opacity: 0.9;
-background-size: 60px 26px;
-background-image:  repeating-linear-gradient(to right, #ffffff, #ffffff 1.3px, #202021 1.3px, #202021);
+    opacity: 1;
+    background-size: 60px 26px;
+    background-image: repeating-linear-gradient(to right, #ffffff, #ffffff 1.3px, #202021 1.3px, #202021);
 }
